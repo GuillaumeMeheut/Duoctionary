@@ -14,6 +14,10 @@ export default class MyDocument extends Document {
             href="https://fonts.gstatic.com"
             crossOrigin="true"
           />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Roboto:wght@500;700&display=swap"
+            rel="stylesheet"
+          />
         </Head>
         <body>
           <Main />
